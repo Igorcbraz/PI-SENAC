@@ -29,7 +29,7 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto Integrador no 
 <details>
   <summary><strong>Login dos Usuários</strong></summary>
   
-![Tela Login](assets/login.png)
+![Tela Login](assets/Login.png)
 
 _Com e-mail e senha, irá ter acesso ao sistema._
 
