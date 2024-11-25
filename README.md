@@ -173,11 +173,15 @@ _Mensagem de sucesso exibida quando o cadastro é realizado com sucesso._
 
 ### Diagrama casos de uso
 
-foto e descrição
+![Diagrama de casos de uso](assets/Diagrama/casos-de-uso.png)
+
+_Diagrama de casos de uso do projeto._
 
 ### Diagrama de classe
 
-foto e descrição
+![Diagrama de casos de uso](assets/Diagrama/diagrama-de-classe.png)
+
+_Diagrama de casos de uso do projeto._
 
 ## Licença
 
